@@ -33,7 +33,7 @@ const HomePage = () => {
                   textDecoration: "",
                 }}
               >
-                REVANTH REDDY
+                VENKATA ARUN
               </span>
             </h1>
           </div>

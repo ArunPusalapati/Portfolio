@@ -22,7 +22,7 @@ const AboutInfo = () => {
           <p style={{ textAlign: "justify" }}>
             Hi people, I am{" "}
             <span style={{ color: "#32CD30", fontWeight: "bold" }}>
-              Revanth Reddy
+              Venkata Arun
             </span>{" "}
             from Hyderabad,India. I am currently pursuing my Master's in Computer Science
             from{" "}
@@ -38,11 +38,11 @@ const AboutInfo = () => {
             <ul>
               <li>
                 <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
-                Watching Movies
+                Playing Cricket
               </li>
               <li>
                 <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
-                Gardening
+                Watching Movies
               </li>
               <li>
                 <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}

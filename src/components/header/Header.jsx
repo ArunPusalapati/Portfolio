@@ -61,7 +61,7 @@ const Header = () => {
               textDecoration: "none",
             }}
           >
-            Revanth Reddy
+            Venkata Arun
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
@@ -119,7 +119,7 @@ const Header = () => {
               textDecoration: "none",
             }}
           >
-            Revanth Reddy
+            Venkata Arun
           </Typography>
           <Box
             justifyContent="flex-end"

@@ -4,7 +4,7 @@ import Tilt from "react-parallax-tilt";
 import { FiDownloadCloud } from "react-icons/fi";
 import { Button } from "@mui/material";
 
-const resumeURL = "https://drive.google.com/file/d/1eLYLF6dnXBNjeYQfrwUAtBYEsk_6qsBq/view?usp=sharing";
+const resumeURL = "https://drive.google.com/file/d/1zNBQEuyW47cIswU2CiH4c8rjZ0UyNEKf/view?usp=sharing";
 
 const HomeBottomPage = () => {
 
@@ -16,7 +16,7 @@ const HomeBottomPage = () => {
       <div className="introduction">
         <div className="intro-text">
           <p>
-            I am Revanth Reddy, currently pursuing my Master's at{" "}
+            I am Venkata Arun, currently pursuing my Master's at{" "}
             <span style={{ color: "#32CD30" }}>University of Memphis </span>
              in Computer Science.
           </p>

@@ -5,22 +5,22 @@ import medical from "../../assets/medical.svg"
 
 const projectData = [
     {
-        title : "Mail Order Pharmacy",
-        description : "Mail Order Pharmacy is a web development application created using the java spring boot and microservices",
+        title : "Weather App Web Application ",
+        description : "Designed and developed a user-friendly weather app using HTML, CSS, and JavaScript, integrating with a weather API to provide real-time weather information for specified locations.",
         image : medical,
-        projectLink : "https://github.com/Reddymallarevanth/Mail-Order-Pharmacy",
+        projectLink : "https://github.com/ArunPusalapati",
     },
     {
-        title : "Portfolio Website",
-        description : "Portfolio website created using Reactjs. Where I showcased my skills,projects and contact.",
+        title : "Employee Management System",
+        description : "Developed a full-stack Employee Management System using Spring Boot for RESTful backend services.",
         image : portfolio,
-        projectLink : "https://github.com/Reddymallarevanth/Portfolio",
+        projectLink : "https://github.com/ArunPusalapati",
     },
     {
-        title : "Books Auction",
-        description : "E-commerce API made using the Ruby on Rails and Javascript where people can go for auction on books.",
+        title : "Real-Time Chat Application",
+        description : "Developed a Real-Time Chat Application using Spring Boot, integrating WebSocket for real-time messaging and Spring Security for authentication, featuring chat rooms, private messaging, and user presence indicators.",
         image : ecommerce,
-        projectLink : "https://github.com/Reddymallarevanth/Rubyonrails-project",
+        projectLink : "https://github.com/ArunPusalapati",
     },
   
     
